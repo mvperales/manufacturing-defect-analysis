@@ -4,7 +4,7 @@
 
 This project analyzes manufacturing defect data to identify quality trends, repair cost drivers, defect locations, and inspection effectiveness. The analysis was performed using Excel, MySQL, and Power BI.
 
-dashboard/Defect%20Data%20Dashboard.png
+dashboard/defect-data-dashboard.png
 
 ## Business Problem
 
