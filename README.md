@@ -1,10 +1,11 @@
-# Manufacturing Defect Analysis Dashboard
+# Manufacturing Defect Analysis
 
 ## Project Overview
 
 This project analyzes manufacturing defect data to identify quality trends, repair cost drivers, defect locations, and inspection effectiveness. The analysis was performed using Excel, MySQL, and Power BI.
 
-images/dashboard-overview.png
+## Dashboard Preview
+![Dashboard Screenshot](images/dashboard-overview.png)
 
 ## Business Problem
 
@@ -133,10 +134,6 @@ Defect counts fluctuated during the reporting period without indicating a clear 
 | Visual Inspection | 110 | 122 | 119 | 351 |
 
 **Insight:** Manual Testing identified the most critical defects.
-
-## Dashboard
-
-dashboard/Defect Data Dashboard.png
 
 ## Key Insights
 
