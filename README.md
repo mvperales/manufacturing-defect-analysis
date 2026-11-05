@@ -4,6 +4,8 @@
 
 This project analyzes manufacturing defect data to identify quality trends, repair cost drivers, defect locations, and inspection effectiveness. The analysis was performed using Excel, MySQL, and Power BI.
 
+> Data Source: Manufacturing Defects Dataset from Kaggle. Used under the Creative Commons Attribution 4.0 International (CC BY 4.0) License.
+
 ## Dashboard Preview
 ![Dashboard Screenshot](images/dashboard-overview.png)
 
@@ -176,3 +178,6 @@ Defect counts fluctuated during the reporting period without indicating a clear 
 - Insight Generation
 - Data Storytelling
 - Recommendation Development
+
+
+For dataset attribution and licensing information, see ATTRIBUTION.md
